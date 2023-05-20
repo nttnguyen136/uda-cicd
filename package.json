@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "fe:install": "cd reactnd-contacts-complete && npm install",
+    "be:install": "cd reactnd-contacts-server && npm install",
+    "fe:build": "cd reactnd-contacts-complete && npm run build",
+    "be:build": "cd reactnd-contacts-server && npm run build"
+  }
+}
